@@ -15,23 +15,23 @@ Images de l'application :
 
 ## *Installation*
 Pour lancer l'application? Rien de plus simple: double cliquer sur l'icone de l'application et vous avez immédiatement 
-accès au portail utilisateur. Facile à comprendre et à naviguer dedans l'application propose plusieurs onglets que vous avez pu remarquer 
+accès au portail utilisateur. Facile à comprendre et à utiliser, l'application propose plusieurs onglets que vous avez pu remarquer 
 dans le visuel ci dessus telle que "La Recherche", "L'axe de veille" etc...
 
 ## *Usage*
 Pourquoi utiliser notre application?
 Notre application TSEWATCH parcours les 10 principaux sites web d'appels d'offres en Fournitures & Service du marché français et international
-donc si en tant que entreprise vous recherchez une offre notre application vous le sortira forcement et vous serez plus rapidement efficace.
+donc si en tant que entreprise vous recherchez une offre, notre application vous le trouvera forcément et vous serez plus rapidement efficace.
 En plus de cela notre application vous donne un lien pdf de chaque appel d'offre et meme permet de creer et de diffuser un appel d'offre
 en particulier avec vos differents collaborateurs pour une éfficacité maximale.
 ![alt text](https://www.penser-et-agir.fr/wp-content/uploads/2018/04/efficacit%C3%A9-et-efficience.jpg)
 
 ## *Support*
-Si malgré vos différentes tentatives des problèmes subsiste, vous pouvez à tout moment contacter l'équipe en charge du projet :....
+Si malgré vos différentes tentatives des problèmes subsistent, vous pouvez contacter l'équipe en charge du projet :....
 ou regarder la documentation descriptive du code sur github.
 
 ## *Auteurs*
-Kamga Ngako Joël, Guo Kuempeng, Zhi Zhou, Adrien Lebron 
+Guo Kuempeng, Zhi Zhou, Adrien Lebron, Kamga Ngako Joël
 
 ## *Etat du projet*
 En cours ......
